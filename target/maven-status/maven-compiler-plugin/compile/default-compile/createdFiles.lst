@@ -1,0 +1,9 @@
+model\IcmsPorRegião\IcmsMG.class
+model\orcamento.class
+model\IcmsPorRegião\IcmsRJ.class
+model\calculoIcms$CalculoPorRegiao.class
+model\TesteMainICMS.class
+model\IcmsFactory.class
+model\IcmsPorRegião\IcmsES.class
+model\calculoIcms.class
+model\IcmsPorRegião\IcmsSP.class
